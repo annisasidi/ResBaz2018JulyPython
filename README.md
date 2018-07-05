@@ -1,6 +1,8 @@
 # ResBaz2018JulyPython
 Python for Sociology notebooks for a Data Carpentry class, ResBaz, Dunedin, July 2018
 
+For practice: Hi, this is Annisa, trying to add some changes to your document.
+
 
 # To do list
 1. fix the math example in the first cell
